@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Parth/CLionProjects/pa2/main.cpp
+iostream
+-
+main.h
+/cygdrive/c/Users/Parth/CLionProjects/pa2/main.h
+
+/cygdrive/c/Users/Parth/CLionProjects/pa2/main.h
+iomanip
+-
+iostream
+-
+

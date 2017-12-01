@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Parth/CLionProjects/pa3/main.cpp
+iostream
+-
+
+/cygdrive/c/Users/Parth/CLionProjects/pa3/pa3.cpp
+iostream
+-
+fstream
+-
+algorithm
+-
+pa3.h
+/cygdrive/c/Users/Parth/CLionProjects/pa3/pa3.h
+
+/cygdrive/c/Users/Parth/CLionProjects/pa3/pa3.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
